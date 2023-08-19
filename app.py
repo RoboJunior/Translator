@@ -4,7 +4,7 @@ from deep_translator import GoogleTranslator
 import spacy
 import openai
 nlp = spacy.load("en_core_web_sm")
-openai.api_key = "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"
+openai.api_key = "Enter your api key"
 import io
 
 
